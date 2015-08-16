@@ -52,4 +52,4 @@ production:
   host: databaseserver
   database: blog_production
   username: blog
-  password: <%= ENV['BLOG_DATABASE_PASSWORD'] %>
+  password: blog
